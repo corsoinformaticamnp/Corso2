@@ -38,7 +38,7 @@ const App = () => {
               <Text style={styles.sectionTitle}>Step One</Text>
               <Text style={styles.sectionDescription}>
                 Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.PRIMA MODIFIC
+                screen and then come back to see your edits.PRIMA MODIFICaaaaaaaa
               </Text>
             </View>
             <View style={styles.sectionContainer}>
